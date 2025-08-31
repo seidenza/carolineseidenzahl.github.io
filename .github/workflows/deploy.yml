@@ -22,6 +22,10 @@ jobs:
           gem install bundler
           bundle install
 
+      - name: Install Jupyter
+        run: pip install jupyter nbconvert
+
+
       - name: Build site with Jekyll
         run: bundle exec jekyll build
 
