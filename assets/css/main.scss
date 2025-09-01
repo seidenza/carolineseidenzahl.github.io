@@ -26,6 +26,8 @@ $max-content-width: {{ site.max_width }};
 
 .profile img {
   max-width: 200px;
+  transform: scale(1.1);   /* 10% zoom */
+  object-fit: cover;       /* avoids distortion */
 }
 
 /* Force profile image into a perfect circle */
