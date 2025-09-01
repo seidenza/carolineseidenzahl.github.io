@@ -24,19 +24,17 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.profile img { 
-  max-width: 200px;
-}
+/* .profile img { max-width: 200px;}  */
 
 /* Force profile image into a perfect circle */
-/*
+
 .profile img {
   width: 200px;       
   height: 200px;      
   object-fit: cover;   
   border-radius: 50%;  
 }
-*/
+
 
 .profile .more-info {
   font-family: inherit;
