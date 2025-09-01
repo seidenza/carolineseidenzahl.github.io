@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Honors student studying Electrical Engineering and Mathematics with a concentration in Biomedical Engineering. I also have a minor in Computational Modeling and Data Science (CMSE).  
+I am an Honors student studying Electrical Engineering and Mathematics with a concentration in Biomedical Engineering. I also have a minor in Computational Modeling and Data Science (CMSE).  
 
 My research interests include signal processing, inverse problems, and optimization. I’m excited about making biomedical imaging more accurate and accessible.  
 
