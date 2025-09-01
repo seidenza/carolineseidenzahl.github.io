@@ -5,7 +5,7 @@ permalink: /
 subtitle: Electrical Engineering & Mathematics Student
 
 profile:
-  align: left
+  align: right
   image: site-profile-photo.JPG
   image_circular: true
   more_info: >
@@ -22,8 +22,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
-# Caroline Seidenzahl
 
 I am a senior at **Michigan State University**, double majoring in **Electrical Engineering** and **Mathematics** with a **Biomedical Engineering concentration**. I also have a minor in **Computational Modeling and Data Science (CMSE)**.  
 
