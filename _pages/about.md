@@ -6,7 +6,7 @@ subtitle: Undergraduate Research Assistant
 
 profile:
   align: right
-  image: TEST2.png
+  image: profile-photo-Caroline.jpg
   image_circular: false
   more_info: >
     <p><i class="fa-solid fa-graduation-cap fa-fw"></i> Expected May 2026</p>
