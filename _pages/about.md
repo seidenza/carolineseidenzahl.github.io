@@ -8,7 +8,10 @@ profile:
   align: right
   image: TEST2.png
   image_circular: true
-  #more_info: 
+  more_info: >
+    <p> 📍 East Lansing </p>
+    <p> 🏛️ Michigan State University</p>
+
 
 selected_papers: false
 social: true
