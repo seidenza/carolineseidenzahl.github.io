@@ -6,7 +6,7 @@ subtitle: Electrical Engineering & Mathematics Student
 
 profile:
   align: right
-  image: site-profilepic.JPG
+  image: TEST2.png
   image_circular: false
   #more_info: 
 
