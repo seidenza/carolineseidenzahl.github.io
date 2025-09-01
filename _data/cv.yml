@@ -30,7 +30,7 @@
   type: time_table
   contents:
     - title: Undergraduate Research Assistant
-      institution: Regenerative Electrode Interface Lab (PI: Dr. Erin Purcell), Michigan State University
+      institution: "Regenerative Electrode Interface Lab (PI: Dr. Erin Purcell), Michigan State University"
       year: 2024 - present
       description:
         - Analyze electrophysiology and spatial transcriptomics data related to implanted neural microelectrodes.
@@ -48,7 +48,7 @@
   contents:
     - title: Mathematical Machine Learning (Honors Option Project)
       year: 2025
-      description: Autoencoders --add more here 
+      description: Autoencoders ADD MORE HERE
     - title: Personal Archiving & Digitization Service
       year: 2024 - present
       description: Designed workflows for digitizing VHS/camcorder tapes and CDs/DVDs using Python, OBS, and Lightbox galleries.
@@ -67,9 +67,9 @@
 - title: Skills
   type: list
   contents:
-    - Programming: Python, MATLAB, C/C++, R, Verilog, Assembly
-    - Tools: Git/GitHub, LaTeX, Jupyter, OBS Studio, Google Apps Script
-    - Areas: Signal Processing, Optimization, Machine Learning, Image Processing, Biomedical Engineering Applications
+    - "Programming: Python, MATLAB, C/C++, R, Verilog, Assembly"
+    - "Tools: Git/GitHub, LaTeX, Jupyter, OBS Studio, Google Apps Script"
+    - "Areas: Signal Processing, Optimization, Machine Learning, Image Processing, Biomedical Engineering Applications"
 
 - title: Academic Interests
   type: nested_list
