@@ -24,6 +24,11 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+.profile img {
+  max-width: 200px;
+}
+
+
 
 
 
