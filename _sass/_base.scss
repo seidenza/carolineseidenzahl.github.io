@@ -404,6 +404,7 @@ ul.task-list input[type="checkbox"] {
     font-size: 3rem;
     display: flex;               /* put icons in a row */
     align-items: center;         /* align vertically with surrounding text */
+    justify-content: center;
 
     a {
       margin: 0 0.5rem;   /* adjust spacing: 0.5rem = tight, 1rem = looser */
