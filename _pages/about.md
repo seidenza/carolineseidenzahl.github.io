@@ -1,8 +1,9 @@
 ---
 layout: about
-title: Home
+title: about
 permalink: /
-subtitle: Electrical Engineering & Mathematics Student
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: Electrical Engineering & Mathematics Student
 
 profile:
   align: left
