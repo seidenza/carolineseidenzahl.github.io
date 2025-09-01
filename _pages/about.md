@@ -7,7 +7,7 @@ subtitle: Undergraduate Research Assistant
 profile:
   align: right
   image: TEST2.png
-  image_circular: true
+  image_circular: false
   more_info: >
     <p><i class="fa-solid fa-graduation-cap fa-fw"></i> Expected May 2026</p>
     <p><i class="fas fa-map-marker-alt fa-fw"></i> East Lansing</p>
