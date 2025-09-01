@@ -29,8 +29,8 @@ $max-content-width: {{ site.max_width }};
 /* Force profile image into a perfect circle */
 
 .profile img {
-  width: 200px;       
-  height: 200px;      
+  width: 175px;       
+  height: 175px;      
   object-fit: cover;   
   border-radius: 50%;  
 }
