@@ -23,9 +23,13 @@ latest_posts:
   enabled: false
 ---
 
-I am an Honors student studying Electrical Engineering and Mathematics with a concentration in Biomedical Engineering. I also have a minor in Computational Modeling and Data Science (CMSE).  
+I am an Honors student at Michigan State University studying Electrical Engineering and Mathematics with a concentration in Biomedical Engineering, and a minor in Computational Modeling and Data Science (CMSE).
 
-My research interests include signal processing, inverse problems, and optimization. I’m excited about making biomedical imaging more accurate and accessible.  
+**Research Interests** 
+My research interests include signal processing, inverse problems, and optimization. I am excited about making biomedical imaging more accurate and accessible. 
+
+**Current Work** 
+I am a research assistant in the Regenerative Electrode Interface Lab under Dr. Erin Purcell, where I work with electrophysiology and spatial transcriptomics data to study how implanted microelectrodes interact with brain tissue.
 
 
 
