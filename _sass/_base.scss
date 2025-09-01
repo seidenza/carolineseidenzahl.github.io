@@ -401,9 +401,13 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 1.5rem;
+    font-size: 3rem;
+    display: flex;               /* put icons in a row */
+    align-items: center;         /* align vertically with surrounding text */
 
     a {
+      margin: 0 0.5rem;   /* adjust spacing: 0.5rem = tight, 1rem = looser */
+
       img {
         width: 3.2rem;
         height: 3.2rem;
