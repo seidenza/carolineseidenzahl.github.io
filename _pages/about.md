@@ -10,8 +10,9 @@ profile:
   image_circular: true
   more_info: >
     <p><i class="fa-solid fa-graduation-cap fa-fw"></i> Expected May 2026</p>
-    <p><i class="fas fa-map-marker-alt fa-fw"></i> East Lansing</p>
     <p><i class="fas fa-university fa-fw"></i> Michigan State University</p>
+    <p><i class="fas fa-map-marker-alt fa-fw"></i> East Lansing</p>
+
 
 selected_papers: false
 social: true
