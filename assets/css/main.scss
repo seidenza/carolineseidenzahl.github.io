@@ -29,14 +29,14 @@ $max-content-width: {{ site.max_width }};
 }
 
 /* Force profile image into a perfect circle */
+/*
 .profile img {
   width: 200px;        /* adjust size if needed */
   height: 200px;       /* must be equal to width */
   object-fit: cover;   /* crop edges, keeps face centered */
   border-radius: 50%;  /* makes it round */
 }
-
-
+*/
 
 
 
