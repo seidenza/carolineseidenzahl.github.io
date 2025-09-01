@@ -8,10 +8,7 @@ profile:
   align: right
   image: site-profile-photo.JPG
   image_circular: false
-  more_info: >
-    <p>Michigan State University</p>
-    <p>B.S. Electrical Engineering + Mathematics</p>
-    <p>GPA 3.93 · Class of 2026</p>
+  #more_info: 
 
 selected_papers: false
 social: true
