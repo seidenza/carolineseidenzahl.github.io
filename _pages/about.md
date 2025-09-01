@@ -7,7 +7,7 @@ subtitle: Electrical Engineering & Mathematics Student
 profile:
   align: right
   image: site-profile-photo.JPG
-  image_circular: true
+  image_circular: false
   #more_info: 
 
 selected_papers: false
