@@ -6,7 +6,7 @@ subtitle: Electrical Engineering & Mathematics Student
 
 profile:
   align: left
-  #image: caroline.jpg
+  image: site-profile-photo.JPG
   image_circular: true
   more_info: >
     <p>Michigan State University</p>
