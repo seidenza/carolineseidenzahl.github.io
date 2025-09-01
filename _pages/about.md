@@ -7,7 +7,7 @@ subtitle: Undergraduate Research Assistant
 profile:
   align: right
   image: profile-photo-Caroline.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p><i class="fa-solid fa-graduation-cap fa-fw"></i> Expected May 2026</p>
     <p><i class="fas fa-map-marker-alt fa-fw"></i> East Lansing</p>
