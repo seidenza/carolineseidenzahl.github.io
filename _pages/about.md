@@ -9,8 +9,8 @@ profile:
   image: TEST2.png
   image_circular: true
   more_info: >
-  <p><i class="fas fa-map-pin"></i> East Lansing</p>
-  <p><i class="fas fa-university"></i> Michigan State University</p>
+    <p><i class="fas fa-map-pin"></i> East Lansing</p>
+    <p><i class="fas fa-university"></i> Michigan State University</p>
 
 
 selected_papers: false
