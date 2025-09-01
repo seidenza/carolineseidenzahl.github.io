@@ -33,6 +33,5 @@ I am a research assistant in the Regenerative Electrode Interface Lab under Dr. 
 
 
 
-
-
-📄 [CV](assets/Caroline_Seidenzahl_CV.pdf) · 💻 [GitHub](https://github.com/seidenza) · 🔗 [LinkedIn](https://linkedin.com/in/seidenza) · 📚 [Google Scholar](#) · ✉️ [Email](mailto:seidenza@msu.edu)
+#📄 [CV](assets/Caroline_Seidenzahl_CV.pdf) · 💻 [GitHub](https://github.com/seidenza) · 
+#🔗 [LinkedIn](https://linkedin.com/in/seidenza)  📚 [Google Scholar](#) · ✉️ [Email](mailto:seidenza@msu.edu)
